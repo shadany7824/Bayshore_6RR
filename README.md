@@ -1,6 +1,6 @@
 ### THIS PROJECT IS CURRENTLY UNSUPPORTED. DO NOT MESSAGE ANYONE FOR HELP
 
-# Bayshore 6R
+# Bayshore 6RR
 Wangan Midnight Maximum Tune 6R server reimplementation written in TypeScript
 
 this repo is based on the original repo (https://github.com/ProjectAsakura/Bayshore)
